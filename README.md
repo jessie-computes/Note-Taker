@@ -4,12 +4,15 @@ This is an application that allows users to write and save notes. This applicati
 ![GitHub Badge](https://img.shields.io/badge/Note%20Taker-I%20did%20my%20best-blue) 
 ## Table of Contents 
 * Usage 
+* Issues
 * License 
 * Contributing  
 * Questions 
 
 ## Usage 
 This application can be used to save notes. 
+## Issues
+I really struggled with fully incorporating the backend development. I could not get the notes to save or show up on the webpage. 
 ## License 
 MIT License
 
